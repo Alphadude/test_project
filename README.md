@@ -6,9 +6,11 @@ A Test Flutter project.
 
 - Clone the project to your local machine
 - open the Test  project folder using Android Studio or VSCode to run the Android files.
-- Check out of the main branch, and move into the new branch you have created and work from that branch.
-- Create a Pull request from the branch you have created and update the ReadMe with the feature you have completed.
-- After that drop a chat on the group that you have made a PR, so that it can be worked on and reviewed.
+- flutter clean the project
+- flutter run the project on an emulator or an actual device.
+- happy testing
+
+
 
 
 ### Screenshots Mobile 📸
